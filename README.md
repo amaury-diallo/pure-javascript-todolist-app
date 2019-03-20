@@ -1,6 +1,6 @@
 # Pure javascript todolist app
 
-
+![Preview](https://github.com/amaury-diallo/pure-javascript-todolist-app/blob/master/todolist-js-cover.png)
 
 This is a basic javascript's todolist app for fun with js, scss and materialize.
 Let me know what do you think about it :) 
